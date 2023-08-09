@@ -31,3 +31,19 @@
     color:#41a34e
 
 }
+.footer{
+    background-color: black;
+    color:rgb(136, 136, 128);
+}
+.social a{
+    color:beige;
+}
+.quick a{
+    color: rgb(136, 136, 128);
+}
+.contact a{
+    color: rgb(136, 136, 128);
+}
+.contact i{
+    color: rgb(33, 243, 61);
+}
